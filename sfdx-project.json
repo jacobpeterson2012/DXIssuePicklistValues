@@ -1,0 +1,23 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true
+        },
+        {
+            "path": "force-app/stage1",
+            "package": "test-picklistvaluesissue",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "45.0",
+    "packageAliases": {
+        "test-picklistvaluesissue": "0Ho6F000000CaTISA0",
+        "test-picklistvaluesissue@0.1.0-1": "04t6F000001ZGiCQAW",
+        "test-picklistvaluesissue@0.1.0-2": "04t6F000001ZGiHQAW"
+    }
+}
