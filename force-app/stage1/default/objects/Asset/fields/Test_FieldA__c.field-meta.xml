@@ -18,5 +18,3 @@
         </valueSetDefinition>
     </valueSet>
 </CustomField>
-
-sfdx force:package:create -n "test-picklistvaluesissue" -d "Test pack for picklist issue" -t Unlocked -r force-app/stage1 -v 
